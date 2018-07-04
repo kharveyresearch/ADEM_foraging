@@ -5,10 +5,10 @@ Foraging simulation utilizing SPM_ADEM. For more information about the model, pl
 
 ### Installation: 
 - Install spm12 from http://www.l.ion.ion.ucl.ac.uk/spm
-- Place all files from this zipfile into <installfolder>/spm12/toolbox/DEM
+- Place all files from this repository into <installfolder>/spm12/toolbox/DEM
 - In ADEM_foraging.m, set P.EXPERIMENT to 1, 2, or 3
 - Run ADEM_foraging.m
-#
+
   
   
   
